@@ -46,7 +46,7 @@ class Intro extends React.Component {
                     <br></br>
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href="../CV.pdf" download="CV.pdf"
+                  href="https://yanz-git.github.io/Portfolio/CV.pdf" download="CV.pdf"
                   role="button"
                 >
                   Télécharger mon CV
